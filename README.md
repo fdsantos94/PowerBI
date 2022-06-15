@@ -5,3 +5,5 @@
 # Críticas Construtivas
 -Estou aberto a críticas construtivas e a sugestões, afinal nunca sabemos 100% de uma determinada ferramenta.
 -Entre em contato através do meu linkedin: www.linkedin.com/in/fdsantos94.
+
+Conto com o seu apoio!
